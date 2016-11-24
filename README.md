@@ -1,7 +1,7 @@
 # techTalksNo13
 Content from the 13th KasselCodeMeetup TechTalks
 
-## Was is'n Graphdatenbank?
+## Wat is'n Graphdatenbank?
 
 Um die Beispiele laufen zu lassen ist gar nicht viel nötig.
 
