@@ -1,7 +1,7 @@
 # techTalksNo13
 Content from the 13th KasselCodeMeetup TechTalks
 
-## Was is'n Graphdatenbank
+## Was is'n Graphdatenbank?
 
 Um die Beispiele laufen zu lassen ist gar nicht viel nötig.
 
@@ -22,5 +22,5 @@ Für einen Überblick über Spring Data Neo4J empfehle ich auch [Good Relations]
 Allerdings passen die Beispiele auf spring.io und die Beispiele auf github nicht immer so ganz zusammen.
 Es gibt schlicht mehrere Arten und Weisen um mit der DB zu sprechen und die werden da ein bisschen vermischt.
 
-_Viel Erfolg!_
+_Viel Erfolg! -- Christoph_
 
